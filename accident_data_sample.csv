@@ -1,0 +1,4 @@
+Severity,Start_Time,Weather_Condition,Temperature(F),Wind_Chill(F),Humidity(%),Pressure(in),Visibility(mi),Wind_Speed(mph),Precipitation(in),Weather_Timestamp,City,County,State
+2,2016-02-08 05:46:00,Light Rain,42.8,42.8,93.0,30.27,10.0,7.0,0.02,2016-02-08 05:53:00,Columbus,Franklin,OH
+3,2016-02-08 06:07:00,Overcast,36.0,36.0,100.0,30.04,10.0,3.5,0.00,2016-02-08 06:13:00,Cleveland,Cuyahoga,OH
+2,2016-02-08 06:49:00,Mostly Cloudy,39.0,39.0,100.0,30.12,10.0,4.6,0.00,2016-02-08 06:53:00,Dayton,Montgomery,OH
